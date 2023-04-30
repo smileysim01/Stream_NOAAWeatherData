@@ -1,0 +1,11 @@
+v1
+{"path":"file:///notebooks/today_features/part-00000-0af7adcb-b194-49a0-bf84-cabfd13041ba-c000.snappy.parquet","size":249648,"isDir":false,"modificationTime":1682817734354,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-25efb1ad-eec6-4230-b6ea-d03ac392a7d9-c000.snappy.parquet","size":265732,"isDir":false,"modificationTime":1682817793551,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-2cd17f06-276f-4695-a85c-a3c3e68f1da0-c000.snappy.parquet","size":12417,"isDir":false,"modificationTime":1682817848147,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-c58222da-fb21-4be9-b7f6-d4d630fa4b3f-c000.snappy.parquet","size":12921,"isDir":false,"modificationTime":1682817907583,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-123eb402-978f-4f10-b064-389ae14131ab-c000.snappy.parquet","size":12807,"isDir":false,"modificationTime":1682817967835,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-83ca18f6-f528-4dae-a6f7-2f989ece6d79-c000.snappy.parquet","size":12870,"isDir":false,"modificationTime":1682818028859,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-d0623879-8701-4052-8910-96b5e2100e38-c000.snappy.parquet","size":13020,"isDir":false,"modificationTime":1682818087712,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-da1cc4e8-b53b-48bd-ba1b-748150b75f82-c000.snappy.parquet","size":12946,"isDir":false,"modificationTime":1682818148092,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-b2c2361e-db48-4681-9e8e-2e9ac335ed12-c000.snappy.parquet","size":12698,"isDir":false,"modificationTime":1682818207828,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///notebooks/today_features/part-00000-a6f13381-cd00-4f4f-b94e-1ab7509cdf89-c000.snappy.parquet","size":12925,"isDir":false,"modificationTime":1682818268025,"blockReplication":1,"blockSize":33554432,"action":"add"}
